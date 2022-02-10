@@ -1,1 +1,1 @@
-rootProject.name = "easy-state"
+rootProject.name = "easy-accessor"

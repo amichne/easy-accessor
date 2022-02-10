@@ -1,4 +1,4 @@
-package io.amichne.easy.state;
+package io.amichne.easy.accessor;
 
 import io.vertx.core.Vertx;
 import io.vertx.junit5.VertxExtension;

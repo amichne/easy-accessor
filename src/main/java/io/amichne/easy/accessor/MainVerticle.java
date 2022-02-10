@@ -1,4 +1,4 @@
-package io.amichne.easy.state;
+package io.amichne.easy.accessor;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
